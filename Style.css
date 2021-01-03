@@ -1,0 +1,84 @@
+body{
+    background-image: url("https://www.itl.cat/pngfile/big/157-1572191_hd-wallpapers-for-website-background-cool-background-image.jpg");
+    padding: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin: 0;
+}
+h1{
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+}
+div{
+    background-color: #FAEBD7;
+    width: 350px;
+    height: 220px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 20px black;
+    padding: 12px 5px 5px 19px;
+}
+button{
+    border: 0px;
+    border-radius: 8px;
+    width: 55px;
+    height: 45px;
+    background: white;
+    margin: 10px 10px;
+    cursor: pointer;
+}
+#whatsapp:hover{
+    border: 2px #4CAF50 solid;
+}
+#facebook:hover{
+    border: 2px #2E4D84 solid;
+}
+#twitter:hover{
+    border: 2px #50ABF1 solid;
+}
+#youtube:hover{
+    border: 2px #FE0000 solid;
+}
+#wikipedia:hover{
+    border: 2px #000000 solid;
+}
+#instagram:hover{
+    border-left: 2px solid #FFCA52;
+    border-right: 2px #D33E90 solid;
+    border-top: 2px solid #FD6040;
+    border-bottom: 2px solid #FD6040;
+}
+#google:hover{
+    border-left: 2px #FBBB00 solid;
+    border-right: 2px #518EF8 solid;
+    border-top: 2px #EE4235 solid;
+    border-bottom: 2px #28B446 solid;
+}
+#netflix:hover{
+    border: 2px #F44336 solid;
+}
+#gmail:hover{
+    border: 2px #F44336 solid;
+}
+#skype:hover{
+    border: 2px #00AAF2 solid;
+}
+#dropbox:hover{
+    border: 2px #1587EA solid;
+}
+#linkedin:hover{
+    border: 2px #0077B7 solid;
+}
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
